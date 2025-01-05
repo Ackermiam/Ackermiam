@@ -1,9 +1,9 @@
-# 👋 Yo !
+# 👋 Yo tout le monde !
 
 ## 🚀 À propos de moi
-Développeur front-end avec **Vue.js** je dev aussi des jeux avec **Three.js**. 
+Développeur front-end avec **Vue.js** je dev aussi des jeux avec **Three.js**. J'espère pouvoir bientôt faire de la conception pour des sites et expériences de réalité augmentée !
 
-- 🌟 Je travaille depuis 3 ans avec VueJs en entreprise.
+- 🌟 Je travaille depuis 3 ans avec VueJs , et parfois avec NuxtJs, en entreprise.
 - 🌱 J’apprends actuellement la **3D** et **Three.js** et bientôt **réalité augmentée**.
 - 🎮 Je développe des petits jeux et expériences immersives.
 
