@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Yo !
 
-<!--
-**Ackermiam/Ackermiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 À propos de moi
+Développeur front-end avec **Vue.js** je dev aussi des jeux avec **Three.js**. 
 
-Here are some ideas to get you started:
+- 🌟 Je travaille depuis 3 ans avec VueJs en entreprise.
+- 🌱 J’apprends actuellement la **3D** et **Three.js** et bientôt **réalité augmentée**.
+- 🎮 Je développe des petits jeux et expériences immersives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies et Outils
+- **Langages :** JavaScript (TypeScript), HTML, CSS
+- **Frameworks :** Vue.js, Nuxt.js
+- **3D :** Three.js
+- **Outils :** Vite, Git, Figma
+
+## 📊 Stats GitHub
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Ackermiam&show_icons=true&theme=radical)
+
+## 🌐 Liens
+- [Mon Portfolio](https://ackermiam.github.io/spaceportfolio/)
+- [Twitter](https://twitter.com/AckermiamLeVrai)
+- [Twitch](https://www.twitch.tv/ackermiam)
