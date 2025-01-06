@@ -17,7 +17,6 @@ Développeur depuis 3 ans, spécialisé front-end avec **Vue.js** je dev aussi d
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Ackermiam&show_icons=true&theme=radical)
 ![Mes Stats GitHub](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ackermiam&theme=synthwave)
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Ackermiam&layout=compact&theme=synthwave)
-![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Ackermiam&show_icons=true&theme=synthwave) 
 
 ## 🌐 Liens
 - [Mon Portfolio](https://ackermiam.github.io/spaceportfolio/)
