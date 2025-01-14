@@ -13,6 +13,11 @@ Développeur depuis 3 ans, spécialisé front-end avec **Vue.js** je dev aussi d
 - **3D :** Three.js
 - **Outils :** Vite, Git, Figma
 
+## 🎮 Mon dernier jeu
+
+![Mon dernier jeu](/v020gif.gif)
+[Clique ici pour y jouer - uniquement sur PC](https://ackermiam.github.io/lab-fps/)
+
 ## 📊 Stats GitHub
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Ackermiam&show_icons=true&theme=radical)
 ![Mes Stats GitHub](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ackermiam&theme=synthwave)
