@@ -15,7 +15,7 @@ Développeur depuis 3 ans, spécialisé front-end avec **Vue.js** je dev aussi d
 
 ## 🎮 Mon dernier jeu
 
-![Mon dernier jeu](/v020gif.gif)
+![Mon dernier jeu](/v020gif.gif) \ 
 [Clique ici pour y jouer - uniquement sur PC](https://ackermiam.github.io/lab-fps/)
 
 ## 📊 Stats GitHub
